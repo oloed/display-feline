@@ -1,1 +1,4 @@
 *.esproj
+assets/*
+index.html
+.DS_Store
